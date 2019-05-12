@@ -1,27 +1,34 @@
 body {
-background-color: black;
+background-color: cornsilk;
 }
 
 
 h1 {
-background-color: gray;
-margin: 25px 50px 75px;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 40px;
+
+  background-color: cornsilk;
+  margin: 25px 50px 75px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: darkgray;
+  border-left: 6px burlywood;
 }
 
 
 p {
-background-color: gray;
-margin: 25px 50px 75px;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 15px;
+  background-color: cornsilk;
+  margin: 25px 50px 75px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: darkgray;
+  border-left: 6px burlywood;
 }
 
 
  h2 {
-   background-color: gray;
+   background-color: cornsilk;
    margin: 25px 50px 75px;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 25px;
+   color: darkgray;
+   border-left: 6px burlywood;
  }
