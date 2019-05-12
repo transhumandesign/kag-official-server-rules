@@ -2,7 +2,7 @@ body, html {
 height: 100%;
 }
 
-.bg {
+bg {
   background-image:url("https://EHRaaaa.github.io/TitleBackground.png")
   background-size:cover;
   background=repeat: no-repeat;
