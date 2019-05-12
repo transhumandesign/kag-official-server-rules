@@ -1,5 +1,5 @@
 body {
-background-color: cornsilk;
+background-color: #403838;
 max-width: 100%;
 }
 
@@ -10,7 +10,7 @@ h1 {
   margin: 5px 50px 5px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
-  color: black;
+  color: #E4E2E2;
   border-left: 6px burlywood;
 }
 
@@ -20,7 +20,7 @@ p {
   margin: 5px 50px 5px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
-  color: darkgray;
+  color: #E4E2E2;
   border-left: 6px burlywood;
 }
 
@@ -30,7 +30,7 @@ p {
    margin: 5px 50px 5px;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 35px;
-   color: dimGray;
+   color: #E4E2E2;
    border-left: 6px burlywood;
  }
 div {
