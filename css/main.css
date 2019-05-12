@@ -25,7 +25,7 @@ h1 {
 p1 {
   margin: 5px 50px 5px;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 10px;
+  font-size: 15px;
   color: #F0EBEB;
   border-left: 6px burlywood;
 }
@@ -39,7 +39,7 @@ p1 {
    border-left: 6px burlywood;
  }
 div {
-  width: 3500px;
+  width: 3000px;
   padding: 25px;
   max-width: 100%;
   overflow-x: hidden;
