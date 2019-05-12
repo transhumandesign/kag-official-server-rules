@@ -28,6 +28,7 @@ p1 {
   font-size: 15px;
   color: #F0EBEB;
   border-left: 6px burlywood;
+  text-align: center;
 }
 
 
@@ -42,4 +43,5 @@ div {
   width: 2500px;
   padding: 25px;
   overflow-x: hidden;
+  max-width: 100%;
 }
