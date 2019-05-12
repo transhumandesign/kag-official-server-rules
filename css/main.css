@@ -36,4 +36,5 @@ p {
 div {
   width: 3500px;
   padding: 25px;
+  max-width: 100%;
 }
