@@ -37,3 +37,8 @@ div {
     padding: 25px;
   max-width: 100%;
 }
+
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
