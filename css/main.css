@@ -1,11 +1,14 @@
-body {
-background-image:url("https://EHRaaaa.github.io/TitleBackground.png")
-background-size:cover;
-background=repeat: no-repeat;
-background-position: center;
+body, html {
 height: 100%;
 }
 
+.bg {
+  background-image:url("https://EHRaaaa.github.io/TitleBackground.png")
+  background-size:cover;
+  background=repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
 
 h1 {
   margin: 5px 50px 5px;
