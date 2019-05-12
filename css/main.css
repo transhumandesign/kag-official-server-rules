@@ -11,7 +11,8 @@ body, html {
 }
 
 h1 {
-  margin: 5px 50px 5px;
+  margin-left: 50px;
+  margin-right: 50px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
   color: ivory;
@@ -19,7 +20,8 @@ h1 {
 
 
 p1 {
-  margin: 5px 50px 5px;
+  margin-left: 50px;
+  margin-right: 50px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   color: ivory;
@@ -28,7 +30,8 @@ p1 {
 
 
  h2 {
-   margin: 5px 50px 5px;
+   margin-left: 50px;
+   margin-right: 50px;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 35px;
    color: ivory;
