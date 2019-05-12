@@ -1,8 +1,10 @@
 body {
 background-color: #403838;
-width: 100%;
 background-image:url("https://EHRaaaa.github.io/TitleBackground.png")
 background-size:cover;
+background=repeat: no-repeat;
+background-position: center;
+height: 100%;
 }
 
 
