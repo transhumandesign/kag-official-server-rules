@@ -39,8 +39,7 @@ p1 {
    border-left: 6px burlywood;
  }
 div {
-  width: 2800px;
+  width: 2500px;
   padding: 25px;
-  max-width: 100%;
   overflow-x: hidden;
 }
