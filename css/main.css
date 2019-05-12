@@ -14,7 +14,7 @@ h1 {
   margin: 5px 50px 5px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
-  color: #001f3f;
+  color: ivory;
 }
 
 
@@ -22,7 +22,7 @@ p1 {
   margin: 5px 50px 5px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
-  color: #001f3f;
+  color: ivory;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ p1 {
    margin: 5px 50px 5px;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 35px;
-   color: #001f3f;
+   color: ivory;
  }
 div {
     padding: 25px;
