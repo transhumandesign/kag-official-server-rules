@@ -32,3 +32,6 @@ p {
    color: darkgray;
    border-left: 6px burlywood;
  }
+div {
+  width: 320px;
+}
